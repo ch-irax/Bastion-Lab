@@ -69,3 +69,8 @@ A complete demonstration of a secure, isolated private cluster accessed exclusiv
 
 - `ip a` (On all VMs to verify interfaces and IPs)
 - `ping <target-ip>` (From host and gateway to test connectivity)
+
+---
+<p align="right">
+  <i><b>Created by Chirag</b></i>
+</p>
